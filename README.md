@@ -1,2 +1,2 @@
-# Procesamiento de datos con Python - Pandas
-Inmersion Alura Latam
+# Procesamiento de datos - Inmersion Alura Latam 
+Python - Pandas 
